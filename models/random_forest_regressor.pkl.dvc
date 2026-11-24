@@ -1,5 +1,0 @@
-outs:
-- md5: 383b3064fa0a0732280ca3e23b01be03
-  size: 7767825
-  hash: md5
-  path: random_forest_regressor.pkl
